@@ -18,6 +18,5 @@
   "runtime": {
     "arguments": " --v=1 ",
     "version": "beta"
-  },
-  "splashScreenImage": "https://cdn.openfin.co/demos/hello/splashscreen/splash_hello.png"
+  }
 }

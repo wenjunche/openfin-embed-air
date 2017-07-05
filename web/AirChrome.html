@@ -9,6 +9,9 @@
         fin.desktop.main(function() {
             fin.desktop.InterApplicationBus.subscribe('*', 'window-docked', onDock);
             fin.desktop.InterApplicationBus.subscribe('*', 'window-undocked', onUnDock);
+
+            document.getElementById('dockIcon').addEventListener('click', undock);
+
         });
 
         function onDock(event) {
@@ -17,12 +20,24 @@
                 document.getElementById('right').style.backgroundColor = "green";
                 document.getElementById('left').style.backgroundColor = "green";
                 document.getElementById('footer').style.backgroundColor = "green";
+                document.getElementById('dockIcon').style.opacity = 1;
             }
         }
 
         function onUnDock(event) {
             if (event.windowName === window.name) {
+                document.getElementById('titlebar').style.backgroundColor = "aqua";
+                document.getElementById('right').style.backgroundColor = "aqua";
+                document.getElementById('left').style.backgroundColor = "aqua";
+                document.getElementById('footer').style.backgroundColor = "aqua";
+                document.getElementById('dockIcon').style.opacity = 0;
             }
+        }
+
+        function undock() {
+            fin.desktop.InterApplicationBus.publish('undock-window', {
+                windowName: fin.desktop.Window.getCurrent().name
+            });
         }
 
     </script>
@@ -70,10 +85,19 @@
         padding: 2px;
         cursor: pointer;
     }
-    
+
+    #dockIcon {
+        opacity: 0;
+        width: 15px;
+        height: 15px;
+        padding: 3px 0 0 0;
+        cursor: pointer;
+        -webkit-app-region: no-drag;
+    }
+
     .closeButton:hover,
     .minimizeButton:hover {
-        background-color: aqua,
+        background-color: aqua;
         cursor: pointer;
         color: red;
     }
@@ -115,10 +139,13 @@
 <body>
   <div id="container">
     <div id="titlebar">
-        <table id="title" width="100%">
+        <table width="100%">
             <tr>
                 <td width="85%">
                     <div id="title"> </div>
+                </td>
+                <td style="text-align: center">
+                    <img id="dockIcon" src="lock-window.png">
                 </td>
                 <td>
                     <div class="minimizeButton" onclick="fin.desktop.Window.getCurrent().minimize()">_</div>
