@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<s:WindowedApplication xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark"
+                       creationComplete="app_creationCompleteHandler(event)" backgroundColor="white" showStatusBar="false"
+                       addedToStage="added_to_stage_handler(event)" top="300" left="300">
+    <fx:Script><![CDATA[
+        import fin.desktop.ApplicationOptions;
+        import fin.desktop.CaptureOptions;
+        import fin.desktop.CapturingWindow;
+        import fin.desktop.InterApplicationBus;
+        import fin.desktop.RuntimeConfiguration;
+        import fin.desktop.RuntimeLauncher;
+        import fin.desktop.WindowOptions;
+
+        import mx.events.FlexEvent;
+
+
+        protected var runtimeLauncher:RuntimeLauncher;
+        private var openfinSystem:fin.desktop.System;
+        private var connectedToOpenFin:Boolean;
+
+        protected function app_creationCompleteHandler(event:FlexEvent):void {
+            connectedToOpenFin = false;
+            NativeApplication.nativeApplication.addEventListener(Event.EXITING, onExit);
+
+            RuntimeConfiguration.enableFileLogging("testAirApp.log"); // in %LocalAppData%/logs
+            RuntimeConfiguration.enableTraceLogging();
+        }
+
+        protected function added_to_stage_handler(event: Event) {
+            stage.nativeWindow.title =  "Air Child Window 1";
+        }
+
+        protected function btn_connectHandler(event:MouseEvent):void {
+            var cfg:RuntimeConfiguration = new RuntimeConfiguration("Flex Test App");
+            cfg.appManifestUrl = "http://localhost:8080/app.json";
+            cfg.onConnectionReady = onConnectionReady;
+            cfg.onConnectionError = onConnectionError;
+            cfg.onConnectionClose = onConnectionClose;
+            cfg.connectionTimeout = 15000;
+
+            runtimeLauncher = new RuntimeLauncher(cfg);
+        }
+
+        protected function btn_disconnectHandler(event:MouseEvent):void {
+            fin.desktop.System.getInstance().exit(function () {
+                trace("exit success callback");
+            });
+        }
+
+        protected function btn_captureHandler(event:MouseEvent):void {
+            captureButton.enabled = false;
+            var captureOptions:CaptureOptions = new CaptureOptions();
+            captureOptions.borderTop = captureOptions.borderRight = captureOptions.borderBottom = captureOptions.borderLeft = 30;
+            var cw:CapturingWindow = new CapturingWindow(stage.nativeWindow);
+            var appOpts = new ApplicationOptions("Air Parent 1", "http://localhost:8080/AirChrome.html");
+            var winOpts:WindowOptions = new WindowOptions();
+            winOpts.autoShow = true;
+            winOpts.defaultTop = 100;
+            winOpts.defaultLeft = 100;
+            winOpts.defaultHeight = winOpts.defaultWidth = 500;
+            winOpts.frame = false;
+            winOpts.contextMenu = true;
+            winOpts.saveWindowState = false;
+            appOpts.mainWindowOptions = winOpts;
+            cw.capture(appOpts, captureOptions, captureCallback);
+        }
+
+        private function captureCallback(event:*): void {
+            var window:ChildWindow = new ChildWindow();
+            window.width = 300;
+            window.height = 300;
+            window.open(true);
+        }
+
+        private function onConnectionReady():void {
+            connectedToOpenFin = true;
+            launchButton.enabled = false;
+            captureButton.enabled = true;
+            shutDownButton.enabled = true;
+            trace("Connection Successful!");
+            InterApplicationBus.getInstance().publish("FlexTopic", {value: "From Flex Main Window"});
+            fin.desktop.System.getInstance().getVersion(function (v:String) {
+                log.text += "Connected to Runtime " + v;
+            });
+        }
+
+        private function onConnectionError(reason:String = null):void {
+            trace("Connection failed", reason);
+        }
+
+        private function onConnectionClose(reason:String = null):void {
+            trace("Connection close", reason);
+        }
+
+        private function onExit(event:Event):void {
+            trace("Exiting");
+        }
+
+
+        ]]></fx:Script>
+
+    <s:Label  left="10" top="10" right="10" fontWeight="bold" fontSize="13" textAlign="center">My fancy Air app window 1</s:Label>
+    <s:Button id="launchButton" left="10" top="40" enabled="{!connectedToOpenFin}" click="btn_connectHandler(event)" label="Connect to OpenFin"/>
+    <s:Button id="captureButton" left="10" top="70" enabled="{connectedToOpenFin}" click="btn_captureHandler(event)" label="Capture AIR window"/>
+    <s:Button id="shutDownButton" left="10" top="100" enabled="{connectedToOpenFin}" click="btn_disconnectHandler(event)" label="Shut down"/>
+    <s:TextArea id="log" left="10" top = "130" bottom="10" width="200"/>
+    <s:TextArea id="log2" left="215" top = "130" bottom="10" right="10"/>
+
+</s:WindowedApplication>

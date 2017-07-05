@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OpenFinAirAdapter-6.0.1" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc!/" />
+      <root url="jar://$PROJECT_DIR$/lib/OpenFinAirNativeExtension-6.0.1.ane!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

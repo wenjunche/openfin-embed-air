@@ -1,0 +1,23 @@
+{
+  "devtools_port": 9090,
+  "startup_app": {
+    "name": "OpenFin Embed Air",
+    "url": "http://localhost:8080/Launcher.html",
+    "uuid": "OpenFin Embed Air",
+    "applicationIcon": "http://demoappdirectory.openf.in/desktop/config/apps/OpenFin/HelloOpenFin/img/openfin.ico",
+    "autoShow": false,
+    "defaultWidth": 10,
+    "saveWindowState": false,
+    "defaultHeight": 10,
+    "contextMenu": true,
+    "resizable": true,
+    "frame": true,
+    "showTaskbarIcon": true,
+    "nonPersistant": true
+  },
+  "runtime": {
+    "arguments": " --v=1 ",
+    "version": "beta"
+  },
+  "splashScreenImage": "https://cdn.openfin.co/demos/hello/splashscreen/splash_hello.png"
+}
