@@ -92,6 +92,7 @@
 
         private function onConnectionClose(reason:String = null):void {
             trace("Connection close", reason);
+            NativeApplication.nativeApplication.exit();
         }
 
         private function onExit(event:Event):void {

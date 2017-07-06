@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c75d9589-ad56-413d-85ca-0bfd91372184" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc" afterPath="$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinAirNativeExtension-6.0.1.ane" afterPath="$PROJECT_DIR$/lib/OpenFinAirNativeExtension-6.0.1.ane" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinEmbed.exe" afterPath="$PROJECT_DIR$/lib/OpenFinEmbed.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ChildWindow.mxml" afterPath="$PROJECT_DIR$/src/ChildWindow.mxml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OpenFinEmbed.mxml" afterPath="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,36 +20,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OpenFinEmbed.mxml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OpenFinEmbed.mxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="400">
+              <caret line="94" column="55" lean-forward="false" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="55" />
               <folding>
-                <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
-                <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
-                <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
-                <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="383:721" ph="..." />
+                <marker date="1499358088482" expanded="true" signature="959:1351" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="1423:1496" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="1567:1996" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="2070:2215" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="2140:2203" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="2286:3218" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="3276:3439" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="3278:3429" ph="//..." />
+                <marker date="1499358088482" expanded="true" signature="3491:3972" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="3888:3960" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="4044:4103" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="4175:4289" ph="{...}" />
+                <marker date="1499358088482" expanded="true" signature="4341:4382" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChildWindow.mxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChildWindow.mxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="36" column="43" lean-forward="false" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            <state relative-caret-position="423">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <marker date="1499357664426" expanded="true" signature="387:584" ph="..." />
                 <marker date="1499357664426" expanded="true" signature="751:762" ph="{...}" />
@@ -96,8 +93,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/web/app.json" />
         <option value="$PROJECT_DIR$/web/AirChrome.html" />
-        <option value="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
         <option value="$PROJECT_DIR$/src/ChildWindow.mxml" />
+        <option value="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
       </list>
     </option>
   </component>
@@ -108,7 +105,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1650" />
+    <option name="x" value="-1539" />
     <option name="width" value="1384" />
     <option name="height" value="1032" />
   </component>
@@ -819,15 +816,15 @@
       <updated>1499263428028</updated>
       <workItem from="1499263430940" duration="3731000" />
       <workItem from="1499281958062" duration="7017000" />
-      <workItem from="1499344254119" duration="3400000" />
+      <workItem from="1499344254119" duration="3971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14148000" />
+    <option name="totallyTimeSpent" value="14719000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1650" y="0" width="1384" height="1032" extended-state="0" />
+    <frame x="-1539" y="0" width="1384" height="1032" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -881,20 +878,20 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
-            <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499358088482" expanded="true" signature="959:1351" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="1423:1496" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="1567:1996" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2070:2215" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2140:2203" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2286:3218" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3276:3439" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3278:3429" ph="//..." />
+            <marker date="1499358088482" expanded="true" signature="3491:3972" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3888:3960" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4044:4103" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4175:4289" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4341:4382" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -919,20 +916,20 @@
         <state relative-caret-position="493">
           <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding>
-            <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
-            <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499358088482" expanded="true" signature="959:1351" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="1423:1496" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="1567:1996" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2070:2215" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2140:2203" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2286:3218" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3276:3439" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3278:3429" ph="//..." />
+            <marker date="1499358088482" expanded="true" signature="3491:3972" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3888:3960" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4044:4103" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4175:4289" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4341:4382" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1006,33 +1003,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding>
-            <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
-            <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
-            <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="36" column="43" lean-forward="false" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        <state relative-caret-position="423">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <marker date="1499357664426" expanded="true" signature="387:584" ph="..." />
             <marker date="1499357664426" expanded="true" signature="751:762" ph="{...}" />
@@ -1040,6 +1014,29 @@
             <marker date="1499357664426" expanded="true" signature="923:1176" ph="{...}" />
             <marker date="1499357664426" expanded="true" signature="1043:1160" ph="{...}" />
             <marker date="1499357664426" expanded="true" signature="1235:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="94" column="55" lean-forward="false" selection-start-line="94" selection-start-column="55" selection-end-line="94" selection-end-column="55" />
+          <folding>
+            <marker date="1499358088482" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499358088482" expanded="true" signature="959:1351" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="1423:1496" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="1567:1996" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2070:2215" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2140:2203" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="2286:3218" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3276:3439" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3278:3429" ph="//..." />
+            <marker date="1499358088482" expanded="true" signature="3491:3972" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="3888:3960" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4044:4103" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4175:4289" ph="{...}" />
+            <marker date="1499358088482" expanded="true" signature="4341:4382" ph="{...}" />
           </folding>
         </state>
       </provider>
