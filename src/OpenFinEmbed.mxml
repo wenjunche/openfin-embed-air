@@ -25,7 +25,7 @@
             RuntimeConfiguration.enableFileLogging("testAirApp.log"); // in %LocalAppData%/logs
             RuntimeConfiguration.enableTraceLogging();
 
-//            RuntimeConfiguration.enableNativeExtensionLogging("C:\\AirLogs\\native.log", false);
+//            RuntimeConfiguration.enableNativeExtensionLogging("C:\\AirLogs\\native.log");
         }
 
         protected function added_to_stage_handler(event: Event): void {
