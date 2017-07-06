@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c75d9589-ad56-413d-85ca-0bfd91372184" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/AirChrome.html" afterPath="$PROJECT_DIR$/web/AirChrome.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/app.json" afterPath="$PROJECT_DIR$/web/app.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc" afterPath="$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinAirNativeExtension-6.0.1.ane" afterPath="$PROJECT_DIR$/lib/OpenFinAirNativeExtension-6.0.1.ane" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinEmbed.exe" afterPath="$PROJECT_DIR$/lib/OpenFinEmbed.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ChildWindow.mxml" afterPath="$PROJECT_DIR$/src/ChildWindow.mxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OpenFinEmbed.mxml" afterPath="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,73 +26,41 @@
       <file leaf-file-name="OpenFinEmbed.mxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
               <folding>
-                <marker date="1499284130599" expanded="true" signature="383:721" ph="..." />
-                <marker date="1499284130599" expanded="true" signature="959:1251" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="1317:1390" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="1461:1890" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="1964:2103" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="2028:2091" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="2174:3086" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="3144:3307" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="3146:3297" ph="//..." />
-                <marker date="1499284130599" expanded="true" signature="3359:3834" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="3750:3822" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="3906:3965" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="4037:4095" ph="{...}" />
-                <marker date="1499284130599" expanded="true" signature="4147:4188" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
+                <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
+                <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
+                <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChildWindow.mxml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChildWindow.mxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="355">
+              <caret line="36" column="43" lean-forward="false" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
               <folding>
-                <marker date="1499283232660" expanded="true" signature="387:584" ph="..." />
-                <marker date="1499283232660" expanded="true" signature="743:750" ph="{...}" />
-                <marker date="1499283232660" expanded="true" signature="811:1063" ph="{...}" />
-                <marker date="1499283232660" expanded="true" signature="885:1057" ph="{...}" />
-                <marker date="1499283232660" expanded="true" signature="976:1049" ph="{...}" />
-                <marker date="1499283232660" expanded="true" signature="1102:1818" ph="{...}" />
+                <marker date="1499357664426" expanded="true" signature="387:584" ph="..." />
+                <marker date="1499357664426" expanded="true" signature="751:762" ph="{...}" />
+                <marker date="1499357664426" expanded="true" signature="833:1186" ph="{...}" />
+                <marker date="1499357664426" expanded="true" signature="923:1176" ph="{...}" />
+                <marker date="1499357664426" expanded="true" signature="1043:1160" ph="{...}" />
+                <marker date="1499357664426" expanded="true" signature="1235:2087" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AirChrome.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/AirChrome.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/app.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Launcher.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Launcher.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -105,6 +77,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>systemChrome</find>
+      <find>added_to_stage_handler</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,12 +92,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/OpenFinEmbed-app.xml" />
-        <option value="$PROJECT_DIR$/src/ChildWindow.mxml" />
-        <option value="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/web/app.json" />
         <option value="$PROJECT_DIR$/web/AirChrome.html" />
+        <option value="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
+        <option value="$PROJECT_DIR$/src/ChildWindow.mxml" />
       </list>
     </option>
   </component>
@@ -135,10 +108,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3166" />
-    <option name="y" value="534" />
-    <option name="width" value="1810" />
-    <option name="height" value="1348" />
+    <option name="x" value="-1650" />
+    <option name="width" value="1384" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -155,6 +127,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,9 +208,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,6 +221,9 @@
   <component name="RecentsManager">
     <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wenjun\Documents\Project\openfin-embed-air\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -843,33 +818,33 @@
       <option name="presentableId" value="Default" />
       <updated>1499263428028</updated>
       <workItem from="1499263430940" duration="3731000" />
-      <workItem from="1499281958062" duration="6920000" />
+      <workItem from="1499281958062" duration="7017000" />
+      <workItem from="1499344254119" duration="3400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10651000" />
+    <option name="totallyTimeSpent" value="14148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3166" y="534" width="1810" height="1348" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1650" y="0" width="1384" height="1032" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297943" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968882" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25257143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33761328" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -903,23 +878,61 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
+            <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <marker date="1499357664426" expanded="true" signature="387:584" ph="..." />
+            <marker date="1499357664426" expanded="true" signature="751:762" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="833:1186" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="923:1176" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="1043:1160" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="1235:2087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding>
-            <marker date="1499284130599" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499284130599" expanded="true" signature="959:1251" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="1317:1390" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="1461:1890" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="1964:2103" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="2028:2091" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="2174:3086" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3144:3307" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3146:3297" ph="//..." />
-            <marker date="1499284130599" expanded="true" signature="3359:3834" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3750:3822" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3906:3965" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="4037:4095" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="4147:4188" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
+            <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -928,9 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -938,7 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,7 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -974,52 +982,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+    <entry file="file://$PROJECT_DIR$/web/AirChrome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="62" column="44" lean-forward="true" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
-          <folding>
-            <marker date="1499284130599" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499284130599" expanded="true" signature="959:1251" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="1317:1390" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="1461:1890" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="1964:2103" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="2028:2091" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="2174:3086" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3144:3307" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3146:3297" ph="//..." />
-            <marker date="1499284130599" expanded="true" signature="3359:3834" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3750:3822" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="3906:3965" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="4037:4095" ph="{...}" />
-            <marker date="1499284130599" expanded="true" signature="4147:4188" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <marker date="1499283232660" expanded="true" signature="387:584" ph="..." />
-            <marker date="1499283232660" expanded="true" signature="743:750" ph="{...}" />
-            <marker date="1499283232660" expanded="true" signature="811:1063" ph="{...}" />
-            <marker date="1499283232660" expanded="true" signature="885:1057" ph="{...}" />
-            <marker date="1499283232660" expanded="true" signature="976:1049" ph="{...}" />
-            <marker date="1499283232660" expanded="true" signature="1102:1818" ph="{...}" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1027,16 +993,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/AirChrome.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+        <state relative-caret-position="300">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1499357494336" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499357494336" expanded="true" signature="959:1351" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="1423:1496" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="1567:1996" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2070:2215" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2140:2203" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="2286:3218" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3276:3439" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3278:3429" ph="//..." />
+            <marker date="1499357494336" expanded="true" signature="3491:3972" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="3888:3960" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4044:4103" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4175:4233" ph="{...}" />
+            <marker date="1499357494336" expanded="true" signature="4285:4326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="36" column="43" lean-forward="false" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <marker date="1499357664426" expanded="true" signature="387:584" ph="..." />
+            <marker date="1499357664426" expanded="true" signature="751:762" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="833:1186" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="923:1176" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="1043:1160" ph="{...}" />
+            <marker date="1499357664426" expanded="true" signature="1235:2087" ph="{...}" />
           </folding>
         </state>
       </provider>

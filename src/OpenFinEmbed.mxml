@@ -24,9 +24,11 @@
 
             RuntimeConfiguration.enableFileLogging("testAirApp.log"); // in %LocalAppData%/logs
             RuntimeConfiguration.enableTraceLogging();
+
+//            RuntimeConfiguration.enableNativeExtensionLogging("C:\\AirLogs\\native.log", false);
         }
 
-        protected function added_to_stage_handler(event: Event) {
+        protected function added_to_stage_handler(event: Event): void {
             stage.nativeWindow.title =  "Air Child Window 1";
         }
 
@@ -42,7 +44,7 @@
         }
 
         protected function btn_disconnectHandler(event:MouseEvent):void {
-            fin.desktop.System.getInstance().exit(function () {
+            fin.desktop.System.getInstance().exit(function (): void {
                 trace("exit success callback");
             });
         }
@@ -52,7 +54,7 @@
             var captureOptions:CaptureOptions = new CaptureOptions();
             captureOptions.borderTop = captureOptions.borderRight = captureOptions.borderBottom = captureOptions.borderLeft = 30;
             var cw:CapturingWindow = new CapturingWindow(stage.nativeWindow);
-            var appOpts = new ApplicationOptions("Air Parent 1", "http://localhost:8080/AirChrome.html");
+            var appOpts: ApplicationOptions = new ApplicationOptions("Air Parent 1", "http://localhost:8080/AirChrome.html");
             var winOpts:WindowOptions = new WindowOptions();
             winOpts.autoShow = true;
             winOpts.defaultTop = 100;
@@ -79,7 +81,7 @@
             shutDownButton.enabled = true;
             trace("Connection Successful!");
             InterApplicationBus.getInstance().publish("FlexTopic", {value: "From Flex Main Window"});
-            fin.desktop.System.getInstance().getVersion(function (v:String) {
+            fin.desktop.System.getInstance().getVersion(function (v:String): void {
                 log.text += "Connected to Runtime " + v;
             });
         }
