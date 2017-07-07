@@ -17,6 +17,7 @@
         protected var runtimeLauncher:RuntimeLauncher;
         private var openfinSystem:fin.desktop.System;
         private var connectedToOpenFin:Boolean;
+        private var captureWindow:CapturingWindow;
 
         protected function app_creationCompleteHandler(event:FlexEvent):void {
             connectedToOpenFin = false;
@@ -53,7 +54,7 @@
             captureButton.enabled = false;
             var captureOptions:CaptureOptions = new CaptureOptions();
             captureOptions.borderTop = captureOptions.borderRight = captureOptions.borderBottom = captureOptions.borderLeft = 30;
-            var cw:CapturingWindow = new CapturingWindow(stage.nativeWindow);
+            captureWindow = new CapturingWindow(stage.nativeWindow);
             var appOpts: ApplicationOptions = new ApplicationOptions("Air Parent 1", "http://localhost:8080/AirChrome.html");
             var winOpts:WindowOptions = new WindowOptions();
             winOpts.autoShow = true;
@@ -64,7 +65,7 @@
             winOpts.contextMenu = true;
             winOpts.saveWindowState = false;
             appOpts.mainWindowOptions = winOpts;
-            cw.capture(appOpts, captureOptions, captureCallback);
+            captureWindow.capture(appOpts, captureOptions, captureCallback);
         }
 
         private function captureCallback(event:*): void {
