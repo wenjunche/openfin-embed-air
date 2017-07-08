@@ -3,7 +3,7 @@
   Created by wenjun on 7/5/2017.
 -->
 <s:Window xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark"
-          creationComplete="app_creationCompleteHandler2(event)" systemChrome="none" backgroundColor="white" showStatusBar="false"
+          creationComplete="app_creationCompleteHandler2(event)" systemChrome="none" backgroundColor="white" showStatusBar="false" resizable="false"
           addedToStage="added_to_stage_handler(event)" >
     <fx:Script><![CDATA[
         import fin.desktop.ApplicationOptions;
