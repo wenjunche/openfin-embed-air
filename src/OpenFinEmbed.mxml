@@ -30,6 +30,7 @@
         }
 
         protected function added_to_stage_handler(event: Event): void {
+            // Each Air window must have an unique title
             stage.nativeWindow.title =  "Air Child Window 1";
         }
 
@@ -53,13 +54,16 @@
         protected function btn_captureHandler(event:MouseEvent):void {
             captureButton.enabled = false;
             var captureOptions:CaptureOptions = new CaptureOptions();
+            // specify bounds of chrome provided by AirChrome.html.  width/height should match css in AirChrome.html
             captureOptions.borderTop = captureOptions.borderRight = captureOptions.borderBottom = captureOptions.borderLeft = 30;
             captureWindow = new CapturingWindow(stage.nativeWindow);
+            // specify how AirChrome.html should be launched
             var appOpts: ApplicationOptions = new ApplicationOptions("Air Parent 1", "http://localhost:8080/AirChrome.html");
             var winOpts:WindowOptions = new WindowOptions();
             winOpts.autoShow = true;
             winOpts.defaultTop = 100;
             winOpts.defaultLeft = 100;
+            // Air window is automatically adjusted to fit size of AirChrome.html
             winOpts.defaultHeight = winOpts.defaultWidth = 500;
             winOpts.frame = false;
             winOpts.contextMenu = true;
@@ -69,6 +73,7 @@
         }
 
         private function captureCallback(event:*): void {
+            // create another window to demonstrate docking
             var window:ChildWindow = new ChildWindow();
             window.width = 300;
             window.height = 300;
@@ -76,6 +81,7 @@
         }
 
         private function onConnectionReady():void {
+            // Air adapter is successfully connected to OpenFin Runtime
             connectedToOpenFin = true;
             launchButton.enabled = false;
             captureButton.enabled = true;

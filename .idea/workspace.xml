@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c75d9589-ad56-413d-85ca-0bfd91372184" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc" afterPath="$PROJECT_DIR$/lib/OpenFinAirAdapter-6.0.1.swc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/OpenFinEmbed.exe" afterPath="$PROJECT_DIR$/lib/OpenFinEmbed.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OpenFinEmbed-app.xml" afterPath="$PROJECT_DIR$/OpenFinEmbed-app.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ChildWindow.mxml" afterPath="$PROJECT_DIR$/src/ChildWindow.mxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/OpenFinEmbed.mxml" afterPath="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,44 +25,34 @@
       <file leaf-file-name="OpenFinEmbed.mxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="88" lean-forward="true" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+            <state relative-caret-position="171">
+              <caret line="32" column="56" lean-forward="false" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
               <folding>
-                <marker date="1499473096177" expanded="true" signature="383:721" ph="..." />
-                <marker date="1499473096177" expanded="true" signature="1010:1395" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="1467:1540" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="1611:2040" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="2114:2259" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="2184:2247" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="2234:2247" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="2330:3264" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="3322:3485" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="3324:3475" ph="//..." />
-                <marker date="1499473096177" expanded="true" signature="3537:4018" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="3934:4006" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="4090:4149" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="4221:4335" ph="{...}" />
-                <marker date="1499473096177" expanded="true" signature="4387:4428" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+                <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+                <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+                <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenFinEmbed-app.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenFinEmbed-app.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChildWindow.mxml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChildWindow.mxml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="147" lean-forward="false" selection-start-line="5" selection-start-column="147" selection-end-line="5" selection-end-column="147" />
+            <state relative-caret-position="374">
+              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <marker date="1499473375677" expanded="true" signature="405:602" ph="..." />
                 <marker date="1499473375677" expanded="true" signature="769:780" ph="{...}" />
@@ -69,6 +61,39 @@
                 <marker date="1499473375677" expanded="true" signature="1061:1178" ph="{...}" />
                 <marker date="1499473375677" expanded="true" signature="1253:2105" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenFinEmbed-app.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenFinEmbed-app.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="210" column="17" lean-forward="false" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Launcher.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Launcher.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,6 +116,8 @@
       <find>sent</find>
       <find>OpenFin Embed Air</find>
       <find>resize</find>
+      <find>title</find>
+      <find>uniq</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\wenjun\Documents\Project\openfin-embed-air</dir>
@@ -108,13 +135,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/web/AirChrome.html" />
-        <option value="$PROJECT_DIR$/web/app.json" />
         <option value="$PROJECT_DIR$/web/Launcher.html" />
-        <option value="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
         <option value="$PROJECT_DIR$/OpenFinEmbed-app.xml" />
         <option value="$PROJECT_DIR$/src/ChildWindow.mxml" />
+        <option value="$PROJECT_DIR$/web/app.json" />
+        <option value="$PROJECT_DIR$/src/OpenFinEmbed.mxml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -125,10 +152,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3794" />
-    <option name="y" value="439" />
-    <option name="width" value="1556" />
-    <option name="height" value="1531" />
+    <option name="x" value="-1329" />
+    <option name="y" value="26" />
+    <option name="width" value="1285" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -195,37 +222,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="production" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openfin-embed-air" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openfin-embed-air" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openfin-embed-air" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -839,32 +844,35 @@
       <workItem from="1499281958062" duration="7017000" />
       <workItem from="1499344254119" duration="23340000" />
       <workItem from="1499467490971" duration="1386000" />
+      <workItem from="1499773239349" duration="3924000" />
+      <workItem from="1499870503744" duration="8237000" />
+      <workItem from="1499906442325" duration="6220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35474000" />
+    <option name="totallyTimeSpent" value="53855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3794" y="439" width="1556" height="1531" extended-state="0" />
+    <frame x="-1329" y="26" width="1285" height="971" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32725948" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32512316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34985423" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36023393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26970443" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20053476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21142857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -901,21 +909,162 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1499473096177" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499473096177" expanded="true" signature="1010:1395" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1467:1540" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1611:2040" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2114:2259" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2184:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2234:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2330:3264" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3322:3485" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3324:3475" ph="//..." />
-            <marker date="1499473096177" expanded="true" signature="3537:4018" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3934:4006" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4090:4149" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4221:4335" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4387:4428" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="147" lean-forward="false" selection-start-line="5" selection-start-column="147" selection-end-line="5" selection-end-column="147" />
+          <folding>
+            <marker date="1499473375677" expanded="true" signature="405:602" ph="..." />
+            <marker date="1499473375677" expanded="true" signature="769:780" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="851:1204" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="941:1194" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="1061:1178" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="1253:2105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenFinEmbed-app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="147" lean-forward="false" selection-start-line="5" selection-start-column="147" selection-end-line="5" selection-end-column="147" />
+          <folding>
+            <marker date="1499473375677" expanded="true" signature="405:602" ph="..." />
+            <marker date="1499473375677" expanded="true" signature="769:780" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="851:1204" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="941:1194" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="1061:1178" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="1253:2105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="88" lean-forward="true" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+          <folding>
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenFinEmbed-app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="147" lean-forward="false" selection-start-line="5" selection-start-column="147" selection-end-line="5" selection-end-column="147" />
+          <folding>
+            <marker date="1499473375677" expanded="true" signature="405:602" ph="..." />
+            <marker date="1499473375677" expanded="true" signature="769:780" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="851:1204" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="941:1194" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="1061:1178" ph="{...}" />
+            <marker date="1499473375677" expanded="true" signature="1253:2105" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -924,7 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,21 +1096,21 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1499473096177" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499473096177" expanded="true" signature="1010:1395" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1467:1540" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1611:2040" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2114:2259" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2184:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2234:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2330:3264" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3322:3485" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3324:3475" ph="//..." />
-            <marker date="1499473096177" expanded="true" signature="3537:4018" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3934:4006" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4090:4149" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4221:4335" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4387:4428" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -987,21 +1135,21 @@
         <state relative-caret-position="493">
           <caret line="29" column="49" lean-forward="false" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
           <folding>
-            <marker date="1499473096177" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499473096177" expanded="true" signature="1010:1395" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1467:1540" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1611:2040" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2114:2259" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2184:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2234:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2330:3264" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3322:3485" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3324:3475" ph="//..." />
-            <marker date="1499473096177" expanded="true" signature="3537:4018" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3934:4006" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4090:4149" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4221:4335" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4387:4428" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1032,78 +1180,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Launcher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/AirChrome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="729">
           <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="39" lean-forward="true" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Launcher.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="88" lean-forward="true" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
-          <folding>
-            <marker date="1499473096177" expanded="true" signature="383:721" ph="..." />
-            <marker date="1499473096177" expanded="true" signature="1010:1395" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1467:1540" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="1611:2040" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2114:2259" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2184:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2234:2247" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="2330:3264" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3322:3485" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3324:3475" ph="//..." />
-            <marker date="1499473096177" expanded="true" signature="3537:4018" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="3934:4006" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4090:4149" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4221:4335" ph="{...}" />
-            <marker date="1499473096177" expanded="true" signature="4387:4428" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OpenFinEmbed-app.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ChildWindow.mxml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="147" lean-forward="false" selection-start-line="5" selection-start-column="147" selection-end-line="5" selection-end-column="147" />
+        <state relative-caret-position="374">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="36" />
           <folding>
             <marker date="1499473375677" expanded="true" signature="405:602" ph="..." />
             <marker date="1499473375677" expanded="true" signature="769:780" ph="{...}" />
@@ -1112,6 +1219,49 @@
             <marker date="1499473375677" expanded="true" signature="1061:1178" ph="{...}" />
             <marker date="1499473375677" expanded="true" signature="1253:2105" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenFinEmbed-app.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="210" column="17" lean-forward="false" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OpenFinEmbed.mxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="32" column="56" lean-forward="false" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
+          <folding>
+            <marker date="1499958780188" expanded="true" signature="383:721" ph="..." />
+            <marker date="1499958780188" expanded="true" signature="1010:1395" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1467:1597" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="1668:2097" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2171:2316" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2241:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2291:2304" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="2387:3581" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3639:3862" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="3701:3852" ph="//..." />
+            <marker date="1499958780188" expanded="true" signature="3914:4467" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4383:4455" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4539:4598" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4670:4784" ph="{...}" />
+            <marker date="1499958780188" expanded="true" signature="4836:4877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
