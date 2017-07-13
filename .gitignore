@@ -19,3 +19,7 @@ bin-release/
 # information for Eclipse / Flash Builder.
 
 out/
+
+openfin-embed-air.iml
+.idea/
+
