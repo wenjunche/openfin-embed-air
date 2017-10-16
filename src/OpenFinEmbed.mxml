@@ -69,7 +69,8 @@
             winOpts.contextMenu = true;
             winOpts.saveWindowState = false;
             appOpts.mainWindowOptions = winOpts;
-            captureWindow.capture(appOpts, captureOptions, captureCallback);
+            captureOptions.applicationOptions = appOpts;
+            captureWindow.capture(captureOptions, captureCallback);
         }
 
         private function captureCallback(event:*): void {

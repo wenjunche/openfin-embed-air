@@ -44,7 +44,8 @@
             winOpts.contextMenu = true;
             winOpts.saveWindowState = false;
             appOpts.mainWindowOptions = winOpts;
-            cw.capture(appOpts, captureOptions);
+            captureOptions.applicationOptions = appOpts;
+            cw.capture(captureOptions);
         }
 
         ]]></fx:Script>
