@@ -5,7 +5,7 @@ Examples of Air windows embedded in OpenFin windows.  Each Air window must have 
 # Run the example
 1. start a web server in web directory on localhost:8080
 
-2. go to lib/ and run OpenFinEmbed.exe
+2. go to lib/ and run OpenFinEmbed.exe.  If certificate error appears, older version of the app needs to be uninstalled from "Programs and Features".
 
 # Build the project
 
