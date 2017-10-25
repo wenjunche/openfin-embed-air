@@ -5,10 +5,10 @@
       <configuration name="openfin-embed-air" target-platform="Desktop" main-class="OpenFinEmbed" output-file="OpenFinEmbed.swf" output-folder="$MODULE_DIR$/out/production/openfin-embed-air">
         <dependencies target-player="11.1">
           <entries>
-            <entry library-id="b99b9f32-c3ae-4268-ac03-e880402a7da9">
+            <entry library-id="b08dcb82-38ea-4a8c-bc93-767c310b5180">
               <dependency linkage="Merged" />
             </entry>
-            <entry library-id="e476fc31-5b27-4d59-85fd-b2ede1fda017">
+            <entry library-id="e36eb386-0369-4f32-96ac-835cbad82443">
               <dependency linkage="Merged" />
             </entry>
           </entries>
@@ -31,9 +31,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
       <library type="flex">
-        <properties id="b99b9f32-c3ae-4268-ac03-e880402a7da9" />
+        <properties id="b08dcb82-38ea-4a8c-bc93-767c310b5180" />
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/OpenFinAirAdapter-6.0.1.swc!/" />
+          <root url="jar://$MODULE_DIR$/lib/OpenFinAirAdapter-6.0.2.swc!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -41,9 +41,9 @@
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library type="flex">
-        <properties id="e476fc31-5b27-4d59-85fd-b2ede1fda017" />
+        <properties id="e36eb386-0369-4f32-96ac-835cbad82443" />
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/OpenFinAirNativeExtension-6.0.1.ane!/" />
+          <root url="jar://$MODULE_DIR$/lib/OpenFinAirNativeExtension-6.0.2.ane!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

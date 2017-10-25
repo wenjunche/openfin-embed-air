@@ -16,7 +16,7 @@
     "nonPersistant": true
   },
   "runtime": {
-    "arguments": " --v=1 ",
-    "version": "beta"
+    "arguments": " --v=1 --framestrategy=frames ",
+    "version": "8.56.26.2"
   }
 }
